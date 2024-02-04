@@ -4,6 +4,5 @@ Hi, my name is Cauan Rodrigues Diniz!
 * Web developer since April 2023;
 * I speak Portuguese and English.
 
-<div>
-<figure><embed src="https://wakatime.com/share/@018cc699-68f8-49b6-806f-8e6519096fda/11e73bc0-ac9c-40fd-a1f0-acf044d4e447.svg"></embed></figure>
-</div>
+.. image:: https://wakatime.com/share/@018cc699-68f8-49b6-806f-8e6519096fda/0e97a5f1-0d95-49f2-b803-d0dde952b0ec.png
+    :target: https://wakatime.com/
