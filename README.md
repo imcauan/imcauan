@@ -1,7 +1,8 @@
 Hi, my name is Cauan Rodrigues Diniz!
 
+<a href="https://wakatime.com/@018cc699-68f8-49b6-806f-8e6519096fda"><img src="https://wakatime.com/badge/user/018cc699-68f8-49b6-806f-8e6519096fda.svg" alt="Total time coded since Jan 1 2024" /></a>
+
+
 * I love tech world and games;
 * Web developer since April 2023;
 * I speak Portuguese and English.
-
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@018cc699-68f8-49b6-806f-8e6519096fda/0e97a5f1-0d95-49f2-b803-d0dde952b0ec.png" /></a>
