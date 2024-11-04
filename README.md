@@ -32,4 +32,7 @@ Hi, my name is Cauan Rodrigues Diniz!
 # You can find me at:
 <div>
     <a href="https://www.linkedin.com/in/cauandiniz/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+   <a href="https://dev-cauandiniz.vercel.app">
+     <img src="https://img.shields.io/badge/Portfolio-E33332?style=for-the-badge&logo=todoist&logoColor=white(https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=Freelancer&logoColor=white)">
+   </a>
 </div>
